@@ -9,7 +9,7 @@ Insert <script src="/path_to_/spark.js"></script> in your HTML source AFTER your
 ## Example
 ```javascript
 function myCallback(response) {
-  // do something here
+  // do something with the JSON response object.
 }
 
 var spark = new Spark("YOUR_SPARK_API_ACCESS_TOKEN");
